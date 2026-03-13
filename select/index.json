@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Somebody’s Son",
+  "base_artist": "Ella Mai",
+  "createdAt": "2026-03-13T14:50:52.462644Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somebody’s Son (Ft Brandy)",
+      "artist": "Tiwa Savage feat. Brandy",
+      "has_synced": true,
+      "path": "select/01_Somebody’s_Son_(Ft_Brandy)_Tiwa_Savage_feat._Brandy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somebody’s Son",
+      "artist": "Tiwa Savage Ft. Brandy",
+      "has_synced": true,
+      "path": "select/02_Somebody’s_Son_Tiwa_Savage_Ft._Brandy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Somebody's Brother; Somebody's Son",
+      "artist": "Cock Sparrer",
+      "has_synced": false,
+      "path": "select/03_Somebody's_Brother;_Somebody's_Son_Cock_Sparrer.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somebody’s Son",
+      "artist": "Tiwa Savage",
+      "has_synced": true,
+      "path": "select/04_Somebody’s_Son_Tiwa_Savage.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Somebody's Husband, Somebody's Son",
+      "artist": "Tom Russell",
+      "has_synced": false,
+      "path": "select/05_Somebody's_Husband,_Somebody's_Son_Tom_Russell.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Somebody's Son",
+      "artist": "Aaron Lines",
+      "has_synced": false,
+      "path": "select/06_Somebody's_Son_Aaron_Lines.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Somebody's Son",
+      "artist": "Kirk Franklin",
+      "has_synced": true,
+      "path": "select/07_Somebody's_Son_Kirk_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Somebody’s Son (feat. Brandy)",
+      "artist": "Tiwa Savage",
+      "has_synced": true,
+      "path": "select/08_Somebody’s_Son_(feat._Brandy)_Tiwa_Savage.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Somebody’s Son",
+      "artist": "Tiwa Savage/Brandy",
+      "has_synced": true,
+      "path": "select/09_Somebody’s_Son_Tiwa_Savage_Brandy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Somebody's Son",
+      "artist": "Abra Cadabra",
+      "has_synced": true,
+      "path": "select/10_Somebody's_Son_Abra_Cadabra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Somebody’s Son",
+      "artist": "Tiwa Savage feat. Brandy",
+      "has_synced": true,
+      "path": "select/11_Somebody’s_Son_Tiwa_Savage_feat._Brandy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Somebody's son",
+      "artist": "Haley Blais",
+      "has_synced": true,
+      "path": "select/12_Somebody's_son_Haley_Blais.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Somebody's Son",
+      "artist": "Ryan Star",
+      "has_synced": false,
+      "path": "select/13_Somebody's_Son_Ryan_Star.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Somebody’s Son (Ft Brandy)",
+      "artist": "Tiwa Savage",
+      "has_synced": true,
+      "path": "select/14_Somebody’s_Son_(Ft_Brandy)_Tiwa_Savage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Somebody's Son",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_Somebody's_Son_Ella_Mai.txt"
+    }
+  ]
+}
