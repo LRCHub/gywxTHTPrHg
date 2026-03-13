@@ -1,0 +1,93 @@
+# Ella Mai – Somebody’s Son
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Only known him for some years
+But I met him in another life
+Only took you 40 days and 40 nights
+To come get me out this place
+Show me what it should be like
+Oh, he's taking all the space
+inside my mind
+Even when he wrong wanna apologise
+I don't really care who's right
+Wanna give him all my nights
+All my sides
+He talk to me so nice
+Down bad, and it just can't be helped
+You don't know how hard I fell
+I can't even hold me up
+So in love
+Boy, look what you've done, I'm
+Weak for somebody's son
+And I swear that man get anything
+he want from
+Me, tryna show him sum
+And he got me doing things
+I ain't never done
+I'm
+Weak for somebody's son, yeah
+I ain't tryna text,
+need that one-on-one, baby
+Yeah, you know what's up
+Got me weak in the knees
+Yeah, his mama raised him right
+Won't let me open my own door
+Yeah, he walks on the outside
+Feel so secure
+Even when he wrong wanna apologise
+I don't really care who's right
+Wanna give him all my nights
+All my sides
+He talk to me so nice
+Down bad, and it just can't be helped
+You don't know how hard I fell
+I can't even hold me up
+So in love
+Boy, look what you've done, I'm
+Weak for somebody's son
+And I swear that man get anything
+he want from
+Me, tryna show him sum
+And he got me doing things
+I ain't never done
+I'm
+Weak for somebody's son, yeah
+I ain't tryna text,
+need that one-on-one, baby
+Yeah, you know what's up
+Got me weak in the knees
+And I love him
+Yes, I do
+Ooh, I trust him
+Know it's true
+I ain't even mad,
+I know he the one
+I done fell in love
+with somebody's son
+And I love him
+Yes, I do
+Ooh, I trust him
+Know it's true
+I ain't even mad,
+I know he the one
+I done fell in love
+with somebody's son
+Weak for somebody's son
+And I swear that man get anything
+he want from
+Me, tryna show him sum
+And he got me doing things
+I ain't never done
+I'm
+Weak for somebody's son, yeah
+I ain't tryna text,
+need that one-on-one, baby
+Yeah, you know what's up
+Got me weak in the knees
+Knees, knees
+And he want me
+Show him something
+Me
+```
